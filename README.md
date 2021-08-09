@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JdotDEV
+- 👀 I’m interested in AI, ML, and Ehtical Hacking
+- 🌱 I’m currently learning ML and Digital forensics E.H.
