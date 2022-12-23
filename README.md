@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @JdotDEV
 - 👀 I’m interested in AI, ML, and Ehtical Hacking
-- 🌱 I’m currently learning ML and Digital forensics E.H.
+- 🌱 I’m currently learning Digital forensics E.H. and degree in Computer Science & Engineering.
+- ✨ Since high school, graphic design has been one of my passions. That enthusiasm inspired me to explore UI/UX design after high school.
+- 📈 Highly skilled in Canva, Adobe Photoshop, Adobe Illustrator, Figma, VistaCreate, Adobe Spark, Design Wizard, and Flutter.
