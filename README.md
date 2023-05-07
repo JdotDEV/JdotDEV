@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhems</h1>
 <h3 align="center">A passionate full stack developer + UI/UX & Graphic Designer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdotdev" alt="jdotdev" /></a> </p>
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=jdotdev" alt="jdotdev" /></a> </p>
 
 - 🔭 I’m currently working on **a Social directory web**
 
