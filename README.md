@@ -30,5 +30,5 @@
 <p><a href="https://www.buymeacoffee.com/jhems"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jhems" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jdotdev&show_icons=true&theme=tokyonight&title_color=fabe26&text_color=27a8dd&hide_border=true&locale=en" alt="jdotdev" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jdotdev&show_icons=true&theme=tokyonight&title_color=fabe26&text_color=27a8dd&hide_border=true&locale=en" alt="jdotdev" /></p>
 
