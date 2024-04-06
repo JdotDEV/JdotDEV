@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jhems</h1>
 <h3 align="center">A passionate CMS developer + UI/UX & Graphic Designer from India.</h3>
 
-- 🔭 I’m currently working on a **Social directory web application project**
+- 🔭 I’m currently working on developing **iOS App Development** Skills
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 👨🏻‍🎓 PRESIDENT @ **CESA**, Indus University
+
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JdotDEV](https://github.com/JdotDEV)
 
