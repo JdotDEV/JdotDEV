@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JdotDEV](https://github.com/JdotDEV)
-
 - 📫 How to reach me **er.jhems@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
