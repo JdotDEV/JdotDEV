@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on developing **iOS App Development** Skills
 
-- 👨🏻‍🎓 PRESIDENT @ **CESA**, Indus University
+- 🏢 PROJECT MANAGER @ **WebNX**
+
+- 👨🏻‍🎓 FORMER PRESIDENT @ **CESA**, Indus University
 
 - 🌱 I’m currently learning **React Native**
 
